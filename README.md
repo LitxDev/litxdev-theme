@@ -2,14 +2,11 @@
 # LitxDev Theme
 
 Cool theme made by [@LitxDev](https://github.com/LitxDev/Lit-Bot)
-
-
-
 ## Installation 
 
 Install LitxDev Theme
 
-you can click install or:
+you can click install or press ctl/command + shift + p to launch the command palette then run:
 
 ```bash 
 ext install LitxDev.litxdev-theme
