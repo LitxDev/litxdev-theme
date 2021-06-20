@@ -7,7 +7,7 @@ Cool theme made by [@LitxDev](https://github.com/LitxDev/Lit-Bot)
 
 ## Installation 
 
-Install LitxDev Theme with npm
+Install LitxDev Theme
 
 you can click install or:
 
