@@ -1,7 +1,7 @@
 {
   "name": "litxdev-theme",
   "displayName": "LitxDev Theme",
-  "description": "A theme made by LitxDev!",
+  "readme": "README.md",
   "version": "0.0.6",
   "publisher": "LitxDev",
   "repository": {
