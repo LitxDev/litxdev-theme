@@ -17,8 +17,6 @@ ext install LitxDev.litxdev-theme
     
 ## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/LitxDev.litxdev-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=LitxDev.litxdev-theme)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/LitxDev.litxdev-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=LitxDev.litxdev-theme)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/LitxDev.litxdev-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=LitxDev.litxdev-theme)
