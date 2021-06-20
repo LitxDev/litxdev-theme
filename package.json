@@ -2,13 +2,18 @@
     "name": "litxdev-theme",
     "displayName": "LitxDev Theme",
     "description": "A theme made by LitxDev!",
-    "icon": "/images/Logo.png",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "LitxDev",
     "repository": {
         "type": "git",
-        "url": "https:/"
+        "url": "https://github.com/LitxDev/litxdev-theme"
     },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "LitxDev",
+        "litxdev"
+    ],
     "engines": {
         "vscode": "^1.57.0"
     },
