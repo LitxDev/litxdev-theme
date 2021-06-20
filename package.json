@@ -2,7 +2,7 @@
   "name": "litxdev-theme",
   "displayName": "LitxDev Theme",
   "readme": "README.md",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "publisher": "LitxDev",
   "repository": {
     "type": "git",
@@ -12,7 +12,10 @@
     "theme",
     "dark theme",
     "LitxDev",
-    "litxdev"
+    "litxdev",
+    "litx dev",
+    "Litx Dev",
+    "themes"
   ],
   "engines": {
     "vscode": "^1.57.0"
