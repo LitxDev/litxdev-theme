@@ -19,3 +19,4 @@ ext install LitxDev.litxdev-theme
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/LitxDev.litxdev-theme?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=LitxDev.litxdev-theme)
 
   
+
