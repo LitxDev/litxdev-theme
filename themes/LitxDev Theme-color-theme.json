@@ -5,7 +5,7 @@
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "enumMember": {
-      "foreground": "#a22633"
+      "foreground": "#e43b44"
     },
     "variable.constant": {
       "foreground": "#fee761"
@@ -260,21 +260,21 @@
       "name": "operator logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
       "name": "operator bitwise",
       "scope": "keyword.operator.bitwise",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
       "name": "operator channel",
       "scope": "keyword.operator.channel",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -288,7 +288,7 @@
       "name": "CSS/SCSS/LESS Operators",
       "scope": "keyword.operator.css,keyword.operator.scss,keyword.operator.less",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -316,7 +316,7 @@
       "name": "css property-name",
       "scope": "support.type.vendored.property-name.css",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -406,7 +406,7 @@
       "name": "js dom",
       "scope": "support.type.object.dom",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -420,7 +420,7 @@
       "name": "keyword.operator",
       "scope": "keyword.operator.arithmetic,keyword.operator.comparison,keyword.operator.decrement,keyword.operator.increment,keyword.operator.relational",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -448,7 +448,7 @@
       "name": "C type posix-reserved",
       "scope": "support.type.posix-reserved.c,support.type.posix-reserved.cpp",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -469,7 +469,7 @@
       "name": "python type",
       "scope": "support.type.python",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -525,7 +525,7 @@
       "name": "Compound Assignment Operators js/ts",
       "scope": "keyword.operator.assignment.compound.js,keyword.operator.assignment.compound.ts",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -702,7 +702,7 @@
       "name": "Support",
       "scope": "support.function",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -751,7 +751,7 @@
       "name": "Constant other symbol",
       "scope": "constant.other.symbol",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -960,14 +960,14 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1044,7 +1044,7 @@
       "name": "Source Json Meta Structure Dictionary Json > Constant Language Json,source Json Meta Structure Array Json > Constant Language Json",
       "scope": "source.json meta.structure.dictionary.json > constant.language.json,source.json meta.structure.array.json > constant.language.json",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1163,7 +1163,7 @@
       "name": "php logical/bitwise operator",
       "scope": "keyword.operator.logical.php,keyword.operator.bitwise.php,keyword.operator.arithmetic.php",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1177,7 +1177,7 @@
       "name": "php comparison",
       "scope": "keyword.operator.comparison.php",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1198,7 +1198,7 @@
       "name": "python function support",
       "scope": "support.token.decorator.python,meta.function.decorator.identifier.python",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1226,14 +1226,14 @@
       "name": "constant.language.symbol.ruby",
       "scope": "constant.language.symbol.ruby",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
       "name": "rgb-value",
       "scope": "rgb-value",
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1394,7 +1394,7 @@
       "name": "js operator.assignment",
       "scope": ["keyword.operator.assignment"],
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1425,7 +1425,7 @@
       "name": "elm prelude",
       "scope": ["support.type.prelude.elm"],
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1456,7 +1456,7 @@
         "entity.other.attribute-name.pseudo-class"
       ],
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1477,7 +1477,7 @@
       "name": "Clojure constants",
       "scope": ["constant.keyword.clojure"],
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1582,7 +1582,7 @@
       "name": "heading 2, callable",
       "scope": ["entity.name.class.xi"],
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1603,7 +1603,7 @@
       "name": "heading 5, enums, preprocessor, constant, decorator",
       "scope": ["keyword.control.xi"],
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1716,7 +1716,7 @@
     {
       "scope": ["constant.language.symbol.elixir"],
       "settings": {
-        "foreground": "#a22633"
+        "foreground": "#e43b44"
       }
     },
     {
@@ -1759,23 +1759,23 @@
     "activityBarBadge.foreground": "#ffffff",
     "activityBarBadge.background": "#007acc",
     "sideBar.background": "#3a4466",
-    "sideBar.foreground": "#cccccc",
+    "sideBar.foreground": "#0099db",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#cccccc",
     "sideBarSectionHeader.border": "#cccccc33",
     "sideBarTitle.foreground": "#bbbbbb",
-    "list.inactiveSelectionBackground": "#37373d",
-    "list.inactiveSelectionForeground": "#cccccc",
-    "list.hoverBackground": "#2a2d2e",
-    "list.hoverForeground": "#cccccc",
-    "list.activeSelectionBackground": "#094771",
+    "list.inactiveSelectionBackground": "#124e89",
+    "list.inactiveSelectionForeground": "#2ce8f5",
+    "list.hoverBackground": "#0099db",
+    "list.hoverForeground": "#ffffff",
+    "list.activeSelectionBackground": "#0099db",
     "list.activeSelectionForeground": "#ffffff",
-    "tree.indentGuidesStroke": "#585858",
-    "list.dropBackground": "#383b3d",
+    "tree.indentGuidesStroke": "#0099db",
+    "list.dropBackground": "#124e89",
     "list.highlightForeground": "#0097fb",
-    "list.focusBackground": "#062f4a",
+    "list.focusBackground": "#262b44",
     "list.focusForeground": "#cccccc",
-    "listFilterWidget.background": "#653723",
+    "listFilterWidget.background": "#262b44",
     "listFilterWidget.outline": "#00000000",
     "listFilterWidget.noMatchesOutline": "#be1100",
     "statusBar.foreground": "#ffffff",
@@ -1986,7 +1986,7 @@
     "minimap.errorHighlight": "#f48771",
     "minimap.warningHighlight": "#cca700",
     "minimap.background": "#262b44",
-    "sideBar.dropBackground": "#383b3d",
+    "sideBar.dropBackground": "#124e89",
     "editorGroup.emptyBackground": "#262b44",
     "panelSection.border": "#5a698859",
     "statusBarItem.activeBackground": "#FFFFFF25",
