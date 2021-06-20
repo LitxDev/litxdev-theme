@@ -1,32 +1,32 @@
 {
-    "name": "litxdev-theme",
-    "displayName": "LitxDev Theme",
-    "description": "A theme made by LitxDev!",
-    "version": "0.0.2",
-    "publisher": "LitxDev",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/LitxDev/litxdev-theme"
-    },
-    "keywords": [
-        "theme",
-        "dark theme",
-        "LitxDev",
-        "litxdev"
-    ],
-    "engines": {
-        "vscode": "^1.57.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "LitxDev Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/LitxDev Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "litxdev-theme",
+  "displayName": "LitxDev Theme",
+  "description": "A theme made by LitxDev!",
+  "version": "0.0.3",
+  "publisher": "LitxDev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LitxDev/litxdev-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "LitxDev",
+    "litxdev"
+  ],
+  "engines": {
+    "vscode": "^1.57.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "LitxDev Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/LitxDev Theme-color-theme.json"
+      }
+    ]
+  }
 }
