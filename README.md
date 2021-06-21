@@ -1,5 +1,7 @@
 # LitxDev Theme
 
+---
+
 Cool theme made by [**@LitxDev**](https://github.com/LitxDev/Lit-Bot)
 
 ##
