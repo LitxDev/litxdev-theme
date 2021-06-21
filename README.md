@@ -11,7 +11,9 @@ Cool theme made by [**@LitxDev**](https://github.com/LitxDev/Lit-Bot)
 
 ## Installation
 
-you can click install or press **ctl/command + shift + p** to launch the command palette then run:
+---
+
+you can click install or press **`ctl/command + shift + p`** to launch the command palette then run:
 
 ```bash
 ext install LitxDev.litxdev-theme
@@ -19,9 +21,13 @@ ext install LitxDev.litxdev-theme
 
 ## License
 
+---
+
 [MIT](https://github.com/LitxDev/litxdev-theme/blob/master/LICENSE)
 
 ## Screenshots
+
+---
 
 ![App Screenshot 1](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/n83FmgPb9rY0cF2l54hukLaYoX62/NAAjSdyS-default.jpeg)
 
