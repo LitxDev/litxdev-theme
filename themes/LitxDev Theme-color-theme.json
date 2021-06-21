@@ -1,6 +1,6 @@
 {
   "name": "LitxDev Theme",
-    "$schema": "vscode://schemas/color-theme",
+  "$schema": "vscode://schemas/color-theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
