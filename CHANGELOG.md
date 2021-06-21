@@ -1,11 +1,4 @@
-<style>
-    h1 {
-        text-align: center;
-    }
-</style>
-
 # **CHANGELOG**
----
 
 ## 0.1.2
 
