@@ -19,12 +19,6 @@ you can click install or press **`ctl/command + shift + p`** to launch the comma
 ext install LitxDev.litxdev-theme
 ```
 
-## License
-
----
-
-[MIT](https://github.com/LitxDev/litxdev-theme/blob/master/LICENSE)
-
 ## Screenshots
 
 ---
@@ -34,3 +28,9 @@ ext install LitxDev.litxdev-theme
 ![App Screenshot 2](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/n83FmgPb9rY0cF2l54hukLaYoX62/NAAjSdyS-panelTerminal.jpeg)
 
 ![App Screenshot 3](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/n83FmgPb9rY0cF2l54hukLaYoX62/NAAjSdyS-commandPalette.jpeg)
+
+## License
+
+---
+
+[MIT](https://github.com/LitxDev/litxdev-theme/blob/master/LICENSE)
