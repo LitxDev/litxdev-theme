@@ -1,8 +1,10 @@
 {
   "name": "litxdev-theme",
   "displayName": "LitxDev Theme",
+  "icon": "images/Logo.png",
   "readme": "README.md",
-  "version": "0.0.9",
+  "license": "https://github.com/LitxDev/litxdev-theme/blob/master/LICENSE",
+  "version": "0.1.0",
   "publisher": "LitxDev",
   "repository": {
     "type": "git",
