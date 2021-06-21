@@ -4,7 +4,7 @@
   "icon": "images/Logo.png",
   "readme": "README.md",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "LitxDev",
   "repository": {
     "type": "git",
