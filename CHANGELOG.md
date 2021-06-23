@@ -1,5 +1,9 @@
 # **CHANGELOG**
 
+## 0.1.4
+
+- **changed all the syntax highlighting**
+
 ## 0.1.3
 
 - **added color to activity bar border**
