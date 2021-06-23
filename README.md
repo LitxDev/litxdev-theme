@@ -15,7 +15,7 @@ Cool theme made by [**@LitxDev**](https://github.com/LitxDev/Lit-Bot)
 
 ---
 
-you can click install or press **`ctl/command + shift + p`** to launch the command palette then run:
+you can click install or press **`ctrl/command + p`** to launch the command palette then run:
 
 ```bash
 ext install LitxDev.litxdev-theme
