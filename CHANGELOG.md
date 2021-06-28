@@ -1,5 +1,16 @@
 # **CHANGELOG**
 
+## 0.1.5
+
+- **changed editor whitespace foreground color**
+- **changed terminal panel background color**
+- **changed terminal panel border color**
+- **changed terminal foreground color**
+- **changed terminal selection background color**
+- **changed terminal border color**
+- **changed all terminal text colors**
+- **changed terminal panel section border color**
+
 ## 0.1.4
 
 - **changed all the syntax highlighting**

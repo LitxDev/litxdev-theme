@@ -1,10 +1,6 @@
 # LitxDev Theme
 
----
-
-Cool theme made by [**@LitxDev**](https://github.com/LitxDev/Lit-Bot)
-
-##
+Cool theme made by [**@LitxDev**](https://github.com/LitxDev/)
 
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/LitxDev.litxdev-theme?style=plastic)](https://marketplace.visualstudio.com/items?itemName=LitxDev.litxdev-theme)
 [![Downloads](https://img.shields.io/visual-studio-marketplace/d/LitxDev.litxdev-theme?style=plastic)](https://marketplace.visualstudio.com/items?itemName=LitxDev.litxdev-theme)
@@ -30,9 +26,3 @@ ext install LitxDev.litxdev-theme
 ![App Screenshot 2](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/n83FmgPb9rY0cF2l54hukLaYoX62/NAAjSdyS-panelTerminal.jpeg)
 
 ![App Screenshot 3](https://vscode-themes.nyc3.cdn.digitaloceanspaces.com/profiles/n83FmgPb9rY0cF2l54hukLaYoX62/NAAjSdyS-commandPalette.jpeg)
-
-## License
-
----
-
-[MIT](https://github.com/LitxDev/litxdev-theme/blob/master/LICENSE)
